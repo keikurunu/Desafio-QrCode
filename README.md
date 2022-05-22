@@ -25,12 +25,14 @@ Realizei alguns estilos que não estavam no original com a finalidade de deixar 
 Desing desktop
 
 ![desktop-design](https://user-images.githubusercontent.com/79486830/169674072-f2604c60-4203-4bb5-85b1-1e1f3b929cb2.jpg)
-![Meuprojc- desktop](https://user-images.githubusercontent.com/79486830/169674062-41c02c1c-6f95-45e7-8da4-137e5a5a0074.PNG)
+![Meuprojeto-Desktop](https://user-images.githubusercontent.com/79486830/169674291-a0b08b92-05a0-49ec-af2c-e35a1e43fe27.PNG)
+
 
 Desing mobile
 
 ![mobile-design](https://user-images.githubusercontent.com/79486830/169674097-43798e0a-6a73-4985-9b5c-15932662bfd8.jpg)
-![MeuProject-mobile](https://user-images.githubusercontent.com/79486830/169674096-fe210b90-8e1e-4243-968e-53ca7e02d848.PNG)
+![Meuprojeto-Mobile](https://user-images.githubusercontent.com/79486830/169674288-4bb9ff01-beb5-4e17-9b8c-bf43d762d81a.PNG)
+
 
 
 **Agora vamos para o proximo!** 🚀
