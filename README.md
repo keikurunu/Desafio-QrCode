@@ -30,8 +30,9 @@ Desing desktop
 
 Desing mobile
 
-![mobile-design](https://user-images.githubusercontent.com/79486830/169674097-43798e0a-6a73-4985-9b5c-15932662bfd8.jpg = 250x250)
-![Meuprojeto-Mobile](https://user-images.githubusercontent.com/79486830/169674288-4bb9ff01-beb5-4e17-9b8c-bf43d762d81a.PNG =250x250)
+![mobile-design](https://user-images.githubusercontent.com/79486830/169674097-43798e0a-6a73-4985-9b5c-15932662bfd8.jpg )
+
+![Meuprojeto-Mobile](https://user-images.githubusercontent.com/79486830/169674288-4bb9ff01-beb5-4e17-9b8c-bf43d762d81a.PNG)
 
 
 
